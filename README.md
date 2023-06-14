@@ -7,6 +7,10 @@
 <li>Rafael de Carvalho Amorim - 608009</li>
 <li>Renzo Yuta Miyatera - 601217</li>
 
+## Preview
+<p align="center">
+	<img src="preview/jogando.gif"></img>
+</p>
 
 ## Algoritimo
 Abaixo, o melhor movimento está na posição do meio porque o valor máximo está no 2º nó à esquerda.
