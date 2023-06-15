@@ -2,8 +2,9 @@
 
 ## Video
 <p align="center">
-[![Watch the video](preview/tic-tac-toe-minimax-game-tree.png)](https://youtu.be/OZkIVR9bI1I)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/OZkIVR9bI1I)
 </p>
+
 
 <h3>Integrantes</h3>
 <li>Guilherme de Barros Hidalgo - 604402</li>
