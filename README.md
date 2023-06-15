@@ -2,8 +2,9 @@
 
 ## Video
 
-[![Watch the video]](https://youtu.be/OZkIVR9bI1I)
-
+<video width="320" height="240" controls>
+  <source src="https://youtu.be/OZkIVR9bI1I">
+</video>
 
 
 <h3>Integrantes</h3>
