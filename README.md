@@ -1,10 +1,7 @@
 # Jogo da Velha Minimax
 
 ## Video
-
-<video width="320" height="240" controls>
-  <source src="https://youtu.be/OZkIVR9bI1I">
-</video>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/OZkIVR9bI1I/0.jpg)](http://www.youtube.com/watch?v=OZkIVR9bI1I "Jogo da Velha")
 
 
 <h3>Integrantes</h3>
