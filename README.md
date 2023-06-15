@@ -2,7 +2,7 @@
 
 ## Video
 <p align="center">
-[![Watch the video](https://upload.wikimedia.org/wikipedia/commons/8/89/Jogo_da_velha_-_tic_tac_toe.png)](https://youtu.be/OZkIVR9bI1I)
+[![Watch the video](preview/tic-tac-toe-minimax-game-tree.png)](https://youtu.be/OZkIVR9bI1I)
 </p>
 
 <h3>Integrantes</h3>
