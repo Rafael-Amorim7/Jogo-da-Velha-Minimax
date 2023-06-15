@@ -1,4 +1,8 @@
-# Jogo-da-Velha-Minimax
+# Jogo da Velha Minimax
+
+## Video
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/OZkIVR9bI1I)
 
 <h3>Integrantes</h3>
 <li>Guilherme de Barros Hidalgo - 604402</li>
