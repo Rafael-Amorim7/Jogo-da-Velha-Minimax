@@ -1,9 +1,9 @@
 # Jogo da Velha Minimax
 
 ## Video
-<p align="center">
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/OZkIVR9bI1I)
-</p>
+
+[![Watch the video](https://upload.wikimedia.org/wikipedia/commons/8/89/Jogo_da_velha_-_tic_tac_toe.png)](https://youtu.be/OZkIVR9bI1I)
+
 
 
 <h3>Integrantes</h3>
