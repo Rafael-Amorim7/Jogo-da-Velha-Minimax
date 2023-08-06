@@ -5,7 +5,6 @@ Este jogo tem como objetivo proporcionar uma experiência divertida e educativa 
 
 O projeto é de código aberto, e você é bem-vindo para contribuir, relatar problemas e sugestões. Divirta-se jogando e explorando os conceitos de inteligência artificial aplicados ao jogo da velha!
 
-## Video
 <h3>Integrantes</h3>
 <li>Guilherme de Barros Hidalgo</li>
 <li>João Vitor Marques de Almeida</li>
