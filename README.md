@@ -5,6 +5,18 @@ Este jogo tem como objetivo proporcionar uma experiência divertida e educativa 
 
 O projeto é de código aberto, e você é bem-vindo para contribuir, relatar problemas e sugestões. Divirta-se jogando e explorando os conceitos de inteligência artificial aplicados ao jogo da velha!
 
+## Video
+<h3>Integrantes</h3>
+<li>Guilherme de Barros Hidalgo</li>
+<li>João Vitor Marques de Almeida</li>
+<li>Kevin Costa Oliveira</li>
+<li>Rafael de Carvalho Amorim </li>
+<li>Renzo Yuta Miyatera</li>
+
+## Video
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/OZkIVR9bI1I/0.jpg)](http://www.youtube.com/watch?v=OZkIVR9bI1I "Jogo da Velha")
+
+
 ## Preview
 <p align="center">
 	<img src="preview/jogando.gif"></img>
