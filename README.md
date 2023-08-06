@@ -1,15 +1,5 @@
 # Jogo da Velha Minimax
 
-<h3>Integrantes</h3>
-<li>Guilherme de Barros Hidalgo - 604402</li>
-<li>João Vitor Marques de Almeida - 604127</li>
-<li>Kevin Costa Oliveira - 603767</li>
-<li>Rafael de Carvalho Amorim - 608009</li>
-<li>Renzo Yuta Miyatera - 601217</li>
-
-## Video
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/OZkIVR9bI1I/0.jpg)](http://www.youtube.com/watch?v=OZkIVR9bI1I "Jogo da Velha")
-
 
 ## Preview
 <p align="center">
